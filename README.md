@@ -20,9 +20,8 @@ A list of dependecies is available in [pom.xml](https://github.com/ptrpengdev/sh
 ## Features
 <ul>
  <li> Inventory Items Retrivial</li>
- <li> Update/Delete Item</li>
- <li> Create Inventory Items</li>
- <li> Create Location</li>
+ <li> Create/Update/Delete Inventory Item</li>
+ <li> Ability to create warehouses/locations and assign inventory to specific locations</li>
 </ul>
  
 
