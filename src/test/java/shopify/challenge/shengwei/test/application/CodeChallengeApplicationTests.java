@@ -1,4 +1,4 @@
-package challenge.shopify.shengwei.codechallenge;
+package shopify.challenge.shengwei.test.application;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
